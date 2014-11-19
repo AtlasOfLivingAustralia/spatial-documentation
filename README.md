@@ -1,4 +1,4 @@
 alageospatialportal
 ===================
 
-A Wiki for putting all ALA documents there.
+A Wiki for putting documents of spatial portal there.
