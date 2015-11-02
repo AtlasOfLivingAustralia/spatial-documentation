@@ -1,4 +1,4 @@
-alageospatialportal
+Spatial components documentation
 ===================
 
 A Wiki for putting documents of spatial portal there.
