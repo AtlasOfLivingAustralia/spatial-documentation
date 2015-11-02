@@ -1,4 +1,5 @@
 Spatial components documentation
 ===================
 
-A Wiki for putting documents of spatial portal there.
+Please look at the [wiki](https://github.com/AtlasOfLivingAustralia/spatial-documentation/wiki) for the documentation.
+
